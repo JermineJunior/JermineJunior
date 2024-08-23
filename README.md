@@ -7,4 +7,4 @@
 JermineJunior/JermineJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JermineJunior)](https://github.com/JermineJunior/github-readme-stats)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JermineJunior&show=reviews,prs_merged,prs_merged_percentage)
