@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Ibrahim , an undergraduate software engineer.
 - 👀 I’m interested in web development in general.
-- 🌱 I’m currently learning Vuejs and Firebase 
+- 🌱 I’m currently learning Vuejs and TypeScript 
 - 📫 How to reach me mohammedjunior159@gmail.com
 
 <!---
